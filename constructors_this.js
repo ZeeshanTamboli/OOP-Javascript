@@ -10,7 +10,7 @@ function Person(name, dob) {
 }
 
 //New instances of the constructor
-const zeeshan = new Person('Zeeshan', '09-15-1993');
+const zeeshan = new Person('Zeeshan', '09-15-1995');
 const aditya = new Person('Aditya', 22);
 
 console.log(zeeshan.getAge());
