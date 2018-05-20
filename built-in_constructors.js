@@ -22,4 +22,14 @@ const num2 = new Number(2);
 const bool1 = true;
 const bool2 = new Boolean(true);
 
-console.log(bool2);
+//Objects
+const zee1 = { name: 'zee1' };
+const zee2 = new Object({ name: 'zee2' });
+console.log(zee2);
+
+//Arrays
+const arr1 = [1, 2, 3];
+const arr2 = new Array(1, 2, 3);
+console.log(arr2);
+
+//Regular expressions
